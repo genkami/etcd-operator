@@ -56,7 +56,7 @@ require (
 	k8s.io/api v0.16.10
 	k8s.io/apiextensions-apiserver v0.16.10
 	k8s.io/apimachinery v0.16.10
-	k8s.io/client-go v0.18.5
+	k8s.io/client-go v0.19.2
 	sigs.k8s.io/yaml v1.2.0 // indirect
 )
 
