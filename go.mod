@@ -15,10 +15,8 @@ require (
 	github.com/coreos/bbolt v1.3.4 // indirect
 	github.com/coreos/etcd v3.3.22+incompatible
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf // indirect
-	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/envoyproxy/go-control-plane v0.9.4 // indirect
 	github.com/go-ini/ini v1.42.0 // indirect
-	github.com/gogo/protobuf v1.3.1 // indirect
 	github.com/golang/mock v1.4.3 // indirect
 	github.com/google/go-cmp v0.4.1 // indirect
 	github.com/google/pprof v0.0.0-20200430221834-fc25d7d30c6d // indirect
@@ -37,27 +35,22 @@ require (
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/satori/uuid v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.7.0
-	github.com/spf13/cobra v1.0.0 // indirect
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20200427203606-3cfed13b9966 // indirect
 	go.opencensus.io v0.22.3 // indirect
 	go.uber.org/zap v1.15.0 // indirect
 	golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6 // indirect
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
-	golang.org/x/mod v0.3.0 // indirect
-	golang.org/x/net v0.0.0-20200602114024-627f9648deb9 // indirect
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
-	golang.org/x/tools v0.0.0-20200601175630-2caf76543d99 // indirect
 	google.golang.org/api v0.15.1
 	google.golang.org/appengine v1.6.6 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	honnef.co/go/tools v0.0.1-2020.1.4 // indirect
-	k8s.io/api v0.16.10
-	k8s.io/apiextensions-apiserver v0.16.10
-	k8s.io/apimachinery v0.16.10
-	k8s.io/client-go v0.18.5
-	sigs.k8s.io/yaml v1.2.0 // indirect
+	k8s.io/api v0.19.2
+	k8s.io/apiextensions-apiserver v0.19.2
+	k8s.io/apimachinery v0.19.2
+	k8s.io/client-go v0.19.2
 )
 
 replace github.com/googleapis/gnostic => github.com/googleapis/gnostic v0.3.1
