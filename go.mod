@@ -8,7 +8,7 @@ require (
 	contrib.go.opencensus.io/exporter/ocagent v0.6.0 // indirect
 	github.com/Azure/azure-sdk-for-go v43.3.0+incompatible
 	github.com/Azure/go-autorest v14.2.0+incompatible
-	github.com/Azure/go-autorest/autorest v0.11.7
+	github.com/Azure/go-autorest/autorest v0.11.9
 	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190125095113-2b29687e15f2
 	github.com/antihax/optional v1.0.0 // indirect
 	github.com/aws/aws-sdk-go v1.13.8
